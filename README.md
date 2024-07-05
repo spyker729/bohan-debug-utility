@@ -2,7 +2,7 @@
 
 # Intro
 
-This github contains my BIOS/UEFI related debug tools.
+This github contains my BIOS/UEFI application related debug tools.
 
 # Links
 Link to my blog http://spyker729.blogspot.com for detailed information.
